@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+}
+a,
+button,
+textarea,
+input,
+body {
+  font-family: sans-serif;
+}
+body {
+  background-color: #121212;
+  color: #fff;
+}
+:root {
+  --ctx-button: transparent;
+  --ctx-button-hover: #eee;
+  --ctx-button-active: #e6e6e6;
+  --ctx-border-radius: 6px;
+  --ctx-padding: 0.25rem;
+  --ctx-container: #fefefe;
+  --ctx-color: #000;
+  --ctx-item-height: 3rem;
+}
+:root {
+  --ctx-button: transparent;
+  --ctx-button-hover: #fff1;
+  --ctx-button-active: #fff2;
+  --ctx-border-radius: 12px;
+  --ctx-padding: 0.25rem;
+  --ctx-container: #1b1b1b;
+  --ctx-color: #fff;
+  --ctx-item-height: 3rem;
+}
